@@ -9,5 +9,6 @@ Common DAX Functions used:
   - DATEADD
   - DATESINPERIOD
   - SUMX
+
 Also used “WHAT-IF” PARAMETERS for forcasting and scenario testing.
 You can also find Advanced Tooltip for Weekly Profit line charts.
